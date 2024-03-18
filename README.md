@@ -1,4 +1,4 @@
-## Hi! I'm Khaled Ahmed
+## Hi! I am Khaled Ahmed
 #### I'm currently studying Back-End development, with a focus on Python and Java.
 - Always updating myself and more passionate about the python ecosystem.
 - If you want to contact me, you can reach me via my Gmail khaled.ahmed.1022@gmail.com or my [LinkedIn](https://www.linkedin.com/in/khaled-ahmed-02b47b28b/).
