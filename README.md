@@ -5,7 +5,6 @@
 ___
 ### Some of the tools I work with:
 - <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" alt="Ícone do Python" width="20"/> Python
-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" alt="Django Icon" width="20"/> Django 
 - <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Ícone do Java" width="20"/> Java
 - <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="Ícone da Linguagem C" width="20"/> C
 ___
