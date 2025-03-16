@@ -4,7 +4,6 @@
 ___
 ### Algumas das ferramentas que eu utilizo:
 -  Java
-- Python
 - Spring Boot
 ___
 ## Banco de dados:
