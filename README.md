@@ -1,4 +1,4 @@
-# Khaled Ahmed Rodrigues Marques Valdivino
+# Khaled Ahmed 
 
 Desenvolvedor Full-Stack apaixonado por criar soluções web completas. Sólida experiência no back-end com Java (APIs robustas, bancos de dados relacionais) e habilidades no front-end para construir interfaces interativas e responsivas.
 
