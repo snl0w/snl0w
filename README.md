@@ -27,7 +27,7 @@
 Desenvolvedor **Full-Stack** formado em Análise e Desenvolvimento de Sistemas
 (UNICEPLAC, 2025), em Brasília · DF.
 
-Construo produtos digitais do zero — do mapeamento do problema ao deploy — em
+Construo produtos digitais do zero, do mapeamento do problema ao deploy em
 **TypeScript, Node.js, React, Supabase e Java/Spring**. Já criei plataformas de
 gestão com IA que geram planos executivos, playbooks e atas automaticamente
 (uma linha de produtos que ultrapassa **R$ 1 milhão em receita anual**), uma
