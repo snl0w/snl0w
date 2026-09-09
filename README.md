@@ -109,7 +109,7 @@ logística em **React Native**.
 
 ## 🚀 Projetos em destaque
 
-- **[Portfólio 3D](https://github.com/snl0w/portfolio)** — site com shader
+- **[Portfólio 3D - EM BREVE](https://github.com/snl0w/portfolio)** — site com shader
   holográfico dirigido pelo scroll, objeto 3D reativo, carrossel pinado e modal
   FLIP, bilíngue PT/EN.
   `Vite · React · TypeScript · R3F · GSAP · Lenis`
