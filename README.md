@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/snl0w/portfolio">
+  <a href="https://portfolio.khaled-ahmed.workers.dev">
     <img src="https://raw.githubusercontent.com/snl0w/snl0w/main/loco3d.gif" width="100%" alt="Trem vermelho 3D — clique para ver o portfólio de Khaled Ahmed">
   </a>
 </p>
@@ -9,8 +9,8 @@
 <p align="center"><i>Construo produtos digitais de ponta a ponta — do back-end à experiência 3D.</i></p>
 
 <p align="center">
-  <a href="https://github.com/snl0w/portfolio">
-    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-em%20breve-e0453a?style=for-the-badge&labelColor=0d0d0d" alt="Portfólio">
+  <a href="https://portfolio.khaled-ahmed.workers.dev">
+    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-ver%20site-e0453a?style=for-the-badge&labelColor=0d0d0d" alt="Portfólio">
   </a>
   <a href="https://linkedin.com/in/khaled-ahmedrmv">
     <img src="https://img.shields.io/badge/LINKEDIN-khaled--ahmedrmv-e8dcc4?style=for-the-badge&logo=linkedin&logoColor=e0453a&labelColor=0d0d0d" alt="LinkedIn">
@@ -109,7 +109,7 @@ logística em **React Native**.
 
 ## 🚀 Projetos em destaque
 
-- **[Portfólio 3D - EM BREVE](https://github.com/snl0w/portfolio)** — site com shader
+- **[Portfólio 3D](https://portfolio.khaled-ahmed.workers.dev)** — site com shader
   holográfico dirigido pelo scroll, objeto 3D reativo, carrossel pinado e modal
   FLIP, bilíngue PT/EN.
   `Vite · React · TypeScript · R3F · GSAP · Lenis`
